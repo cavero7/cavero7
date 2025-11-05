@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9feae16e-af67-4ca7-ada9-d20f7514b12a" />
+<img width="1536" height="768" alt="image" src="https://github.com/user-attachments/assets/ae0b03c8-c472-42fe-9eeb-638e1744efe9" />
+
 
 
 # Hey, I'm Alexis!!
