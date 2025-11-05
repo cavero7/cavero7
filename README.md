@@ -1,3 +1,6 @@
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3f2d1521-2c53-4a5f-928f-f315d1ae3351" />
+
 # Hey, I'm Alexis!!
 
 [![Gmail Badge](https://img.shields.io/badge/-cavero7@alumni.uv.es-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cavero7@alumni.uv.es)
