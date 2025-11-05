@@ -1,5 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9feae16e-af67-4ca7-ada9-d20f7514b12a" />
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3f2d1521-2c53-4a5f-928f-f315d1ae3351" />
 
 # Hey, I'm Alexis!!
 
